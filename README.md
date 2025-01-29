@@ -3,7 +3,7 @@
 ## Project Overview
 This project focuses on data cleaning, exploratory data analysis (EDA), Visualizing the trends to generate Insights on Data and SQL querying using Fetch Rewards datasets. The datasets contain user transactions, product details, and purchase behaviors.
 
-## 📂 Folder Structure
+## Folder Structure
 
 fetch_rewards_project/
 │-- Data Preprocessing/
