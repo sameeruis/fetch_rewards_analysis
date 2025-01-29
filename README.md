@@ -19,7 +19,7 @@ fetch_rewards_project/
 │-- EDA and SQL_Queries/
 │   │-- VisualEDA_Fetch_Analysis.ipynb
 │   │-- Fetch_database.db
-│   │-- SlackMessage
+│   │-- Slack Message.md
 │   │-- input/
 │       │-- cleaned_USER_EDA.csv
 │       │-- cleaned_PRODUCT_EDA.csv
